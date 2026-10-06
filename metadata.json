@@ -1,0 +1,6 @@
+{
+  "name": "Firewall Log Analytics & Security Dashboard",
+  "description": "Connect, ingest, and visualize firewall logs in real-time with threat detection, traffic analytics, geo-distribution, and AI security triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
